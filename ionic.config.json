@@ -1,0 +1,7 @@
+{
+  "name": "dogapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
