@@ -7,7 +7,7 @@
 
 - [@Luis Guaygua](https://github.com/Kr-luis)
 
-**De click [@aqui](https://github.com/Kr-luis/Repaso_firebase/blob/main/Repaso_firebase_GV.apk) para descargar la aplicación**
+**De click [@aqui](https://github.com/Kr-luis/Bimestral_DAM/blob/master/app-debug.apk) para descargar la aplicación**
 
 
 ## Capturas de Pantalla 📸
