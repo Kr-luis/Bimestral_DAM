@@ -8,7 +8,7 @@ import { AngularFirestore } from '@angular/fire/compat/firestore';
 })
 export class DataService {
 
-  private bookUrl = 'https://gutendex.com/books?ids=1,2,3,4,5,6,7,8,9,10'; 
+  private bookUrl = 'https://gutendex.com/books?ids=2,4,6,8,10,12,14,16,18,20'; 
   private dogUrl = 'https://dog.ceo/api/breed/beagle/images/random';
   private robotUrl = 'https://robohash.org/hola';
 
